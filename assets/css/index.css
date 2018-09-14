@@ -187,7 +187,6 @@ img{
     position: fixed;
     width: 100px;
     height: 80px;
-    border: 2px solid black;
   }
   
   /* Box rules: percentages define anchors (i.e. position of each box relative to browser window) */
